@@ -1,3 +1,6 @@
 Nombre: Valentina Luján Robledo
 Edad: 18 años
 Aspiraciones con la materia: Mis aspiraciones con la materia es poder aprender a profundidad cada uno de los contenidos que serán dictados en esta, tanto para obtener una buena culminación del curso academicamente como para obtener conocimientos que serán fundamentales para mi futuro profesional. Además, quiero aprender el manejo de diversas herramientas que son bastante utilizadas actualmente, como lo es GitHub, GitHub Desktop, y los entornos de desarrollo de Java y Python que usaremos. 
+=======
+El commit de la carpeta archivos fue posible despues de crear el archivo de texto "respuesta.txt" debido a que, al agregarle este archivo GitHub si reconoce un cambio por lo que permite realizar el commit. Esto de que no se reconozca el cambio evitando hacer el commit, solo sucede cuando la carpeta que se crea esta vacia, es por esto que al agregarle un archivo dentro, este problema se resuelve y se puede hacer el commit sin ningún incoveniente.
+
