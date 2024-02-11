@@ -1,6 +1,7 @@
 Nombre: Valentina Luján Robledo
 Edad: 18 años
 Aspiraciones con la materia: Mis aspiraciones con la materia es poder aprender a profundidad cada uno de los contenidos que serán dictados en esta, tanto para obtener una buena culminación del curso academicamente como para obtener conocimientos que serán fundamentales para mi futuro profesional. Además, quiero aprender el manejo de diversas herramientas que son bastante utilizadas actualmente, como lo es GitHub, GitHub Desktop, y los entornos de desarrollo de Java y Python que usaremos. 
-=======
+
 El commit de la carpeta archivos fue posible despues de crear el archivo de texto "respuesta.txt" debido a que, al agregarle este archivo GitHub si reconoce un cambio por lo que permite realizar el commit. Esto de que no se reconozca el cambio evitando hacer el commit, solo sucede cuando la carpeta que se crea esta vacia, es por esto que al agregarle un archivo dentro, este problema se resuelve y se puede hacer el commit sin ningún incoveniente.
 
+Es importante tener cuidado con modificar dos archivos al mismo tiempo debido a que se pueden generar conflictos, como pudimos ver con la realización de este taller, donde tuvimos que realizar la fusión de ambos archivos de forma manual para poder hacer el commit. Esto también puede facilitar que se cometan errores al hacer la fusión manual, los cuales serán mas dificiles de ver. Como conclusión de esto, podemos decir que lo ideal sería primero descargar los cambios realizados en el archivo y luego continuar haciendo los cambios que sean necesarios, para así evitar que se genere un conflicto. 
