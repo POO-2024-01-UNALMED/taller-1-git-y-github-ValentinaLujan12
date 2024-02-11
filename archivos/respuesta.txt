@@ -1,0 +1,1 @@
+Si se presenta un problema, esto debido a que GitHub no reconoce la creación de una carpeta como un cambio o una adición al proyecto, por lo que no permite realizar el commit.
