@@ -1,0 +1,3 @@
+Nombre: Valentina Luján Robledo
+Edad: 18 años
+Aspiraciones con la materia: Mis aspiraciones con la materia es poder aprender a profundidad cada uno de los contenidos que serán dictados en esta, tanto para obtener una buena culminación del curso academicamente como para obtener conocimientos que serán fundamentales para mi futuro profesional. Además, quiero aprender el manejo de diversas herramientas que son bastante utilizadas actualmente, como lo es GitHub, GitHub Desktop, y los entornos de desarrollo de Java y Python que usaremos. 
